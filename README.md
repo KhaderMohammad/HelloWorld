@@ -20,3 +20,5 @@ change for building PR
 triggering
 
 new release through jenkins
+
+changes through the commands
