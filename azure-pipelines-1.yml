@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: echo Hello, world!
-  displayName: 'Run a one-line script adnan and shakeeb'
+  displayName: 'Run a one-line script adnan and shakeeb and brothers'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
